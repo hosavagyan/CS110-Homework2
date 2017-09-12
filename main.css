@@ -1,0 +1,18 @@
+h1 {
+	color:red;
+	margin:left;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.WhatIsLorem {
+	text-align: center;
+	border: solid;
+}
+
+#jslogo {
+	padding: 50px;
+	border: solid;
+	align-self:  center;
+	margin-left: 550px;
+}
